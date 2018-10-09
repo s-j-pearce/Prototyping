@@ -1,2 +1,8 @@
 # Prototyping
-This repository is an overview and a look at prototyping within projects.
+What is prototyping? 
+
+### Types of prototyping
+
+### tools for prototyping
+
+### advantages and disadvantages of end user testing
