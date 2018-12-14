@@ -7,7 +7,14 @@ Functional prototypes are products with fully implemented functionalities, this 
 
 The main reasoning for this type of prototyping is to keep the costs lower than those of a finished product. This can be achieved by;
 1. Cutting down the products features.
-With this type of prototyping, only part of all 
+With this type of prototyping, only part of all the features are implimented into this version of the prototype. All the features that are implimented with this release are fully functional so that users can test everything fully.
+2. Cut down the functionalities.
+All the features of the software are implimented into this prototype version however there are still some functionalities are missing from the software.
+3. Cut down resources used in implementation.
+Within the software, memory optimization is not implimented meaning certain features may load slower than others. The efficency of the software is not maximized to its full potential. High end computers are used in order to make up for the missing efficency lost in teh current build. Error handling is not fully implimented meaning that if you do encounter an issue or do something that shouldn't work then it wont come up as smoothly or as nice looking as intended in the final release.
+
+#### Paper Prototypes:
+Sometimes it is more beneficial to use paper prototypes instead of functional ones as it helps to go through on paper the steps of what should happen. With contextual design, the use of paper prototypes are stressed 
 
 ### tools for prototyping
 
